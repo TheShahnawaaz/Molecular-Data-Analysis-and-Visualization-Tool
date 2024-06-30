@@ -39,7 +39,7 @@ To run the MOWed-LAC application, you need to have the AIMAll generated folder \
 
 2. **Navigate to the directory**:
     ```sh
-    cd MOWed-LAC
+    cd Molecular-Data-Analysis-and-Visualization-Tool
     ```
 
 3. **Install the required dependencies**:
@@ -49,7 +49,7 @@ To run the MOWed-LAC application, you need to have the AIMAll generated folder \
 
 4. **Run the application**:
     ```sh
-    python mowd_lac.py
+    python MOWeD-LAC.py
     ```
 
 ## Usage
