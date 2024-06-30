@@ -34,7 +34,7 @@ To run the MOWed-LAC application, you need to have the AIMAll generated folder \
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/MOWed-LAC.git
+    [git clone https://github.com/yourusername/MOWed-LAC.git](https://github.com/TheShahnawaaz/Molecular-Data-Analysis-and-Visualization-Tool.git)
     ```
 
 2. **Navigate to the directory**:
