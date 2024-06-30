@@ -16,16 +16,13 @@ The Molecular-wide Electron Density (De)localization Atomic Counts (MOWed-LAC) i
 ## Screenshots
 
 ### Main Interface
-![Main Interface](path_to_image1)
+![Main Interface](assets/Screen-1.jpg)
 
 ### Data Input
-![Data Input](path_to_image2)
+![Data Input](assets/Screen-2.jpg)
 
 ### Processing Screen
-![Processing Screen](path_to_image3)
-
-### Light Mode
-![Light Mode](path_to_image4)
+![Processing Screen](assets/Screen-3.jpg)
 
 ### Output Excel Sheet
 ![Output Excel Sheet](path_to_image5)
