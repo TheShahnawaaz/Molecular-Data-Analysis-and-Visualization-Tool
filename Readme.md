@@ -81,10 +81,6 @@ To run the MOWed-LAC application, you need to have the AIMAll generated folder \
 - **Dr. Jurgens H. de Lange**: Implementation and coding of FALDI.
   - Email: jurgens.delange@up.ac.za
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to the Natural and Agricultural Sciences Department at the University of Pretoria for their support and guidance.
